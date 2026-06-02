@@ -16,7 +16,14 @@
     "ios": {
       "supportsTablet": false
     },
-    "android": {},
+    "android": {
+      "package": "com.uzspace.alphaapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a142ca80-d78d-406d-b46e-9daefe63788d"
+      }
+    },
     "web": {
       "favicon": "./assets/images/icon.png"
     },
