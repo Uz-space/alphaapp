@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Crypto Watcher X Exchange",
-    "slug": "crypto-app",
+    "slug": "alphaapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
